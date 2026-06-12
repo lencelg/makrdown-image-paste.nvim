@@ -23,7 +23,7 @@ M.config = {
   img_dir           = "img",
 
   -- Key mapping to trigger the paste command (set to false to disable).
-  keymap            = "<leader>p",
+  keymap            = "<C-p>",
 
   -- Automatically create a buffer-local keymap for Markdown files?
   create_keymap     = true,
